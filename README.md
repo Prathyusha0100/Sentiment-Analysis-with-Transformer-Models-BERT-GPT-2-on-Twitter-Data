@@ -22,20 +22,6 @@ This project applies **Transformer-based models** such as **BERT and GPT-2** to 
 - **Accuracy, Precision, Recall, and F1-score** on test data.  
 - **Confusion matrix & prediction visualization**.  
 
-## 📦 Installation & Setup  
-To set up and run the project locally:  
-
-1. **Clone this repository:**  
-   ```bash
-   git clone https://github.com/your-username/Transformer-Sentiment-Analysis.git
-   cd Transformer-Sentiment-Analysis
-2. **Install dependencies:**
-    ```bash
-    pip install -r requirements.txt
-3. **Run the Jupyter Notebook:**
-   ```bash
-   jupyter notebook
-
 📊 **Dataset**
 Dataset: Twitter Sentiment Dataset (Negative: 0, Positive: 4).
 Train-Validation-Test Split: 80-10-10.
