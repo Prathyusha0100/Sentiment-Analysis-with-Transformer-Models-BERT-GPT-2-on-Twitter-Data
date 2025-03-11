@@ -1,4 +1,4 @@
-# 🤖 Sentiment Analysis with Transformers (BERT, GPT-2)  
+#  Sentiment Analysis with Transformers (BERT, GPT-2)  
 
 This project applies **Transformer-based models** such as **BERT and GPT-2** to perform **sentiment classification** on Twitter data. By fine-tuning a **pre-trained transformer**, the model achieves high accuracy in detecting **positive and negative sentiments** from tweets.
 
