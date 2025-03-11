@@ -22,11 +22,11 @@ This project applies **Transformer-based models** such as **BERT and GPT-2** to 
 - **Accuracy, Precision, Recall, and F1-score** on test data.  
 - **Confusion matrix & prediction visualization**.  
 
-📊 **Dataset**
+## 📊 Dataset
 Dataset: Twitter Sentiment Dataset (Negative: 0, Positive: 4).
 Train-Validation-Test Split: 80-10-10.
 
-📈 **Results**
+## 📈 Results
 Fine-tuned Transformer Model Accuracy.
 Confusion Matrix & Classification Report.
 Predictions on sample tweets.
