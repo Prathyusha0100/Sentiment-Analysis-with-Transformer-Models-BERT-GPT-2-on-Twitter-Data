@@ -44,14 +44,3 @@ Train-Validation-Test Split: 80-10-10.
 Fine-tuned Transformer Model Accuracy.
 Confusion Matrix & Classification Report.
 Predictions on sample tweets.
-
-📂 Transformer-Sentiment-Analysis/
-│── 📂 dataset/                # Contains the sentiment dataset
-│── 📂 models/                 # Saved trained model files
-│── 📂 src/                    # Python scripts
-│   ├── preprocess.py          # Text preprocessing & tokenization
-│   ├── train.py               # Model fine-tuning & evaluation
-│── 📂 results/                 # Accuracy reports & graphs
-│── NLP_Q3.ipynb               # Jupyter Notebook with full implementation
-│── requirements.txt           # Python dependencies
-│── README.md                  # Project documentation
